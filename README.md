@@ -1,7 +1,7 @@
-# [Name]
+# [Peyton Roswadovski]
 ## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+## [Submission date: 09/16/24]
+## Worked with/sources: none
 * example
 * example
 * example
